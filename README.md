@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Du Yixian's github stats](https://github-readme-stats.vercel.app/api?username=duyixian1234&theme=gruvbox)](https://github.com/duyixian1234?tab=repositories&q=&type=source)
+
