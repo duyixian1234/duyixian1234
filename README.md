@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **duyixian1234/duyixian1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
